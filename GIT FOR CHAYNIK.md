@@ -22,4 +22,11 @@
 
 ![Здесь была картинка, но почему то ее нет](syntaxix.bmp "Cинтаксис языка Маркдаун")
 
+#              3 ПОЛЕЗНЫЕ ССЫЛКИ
+[Справочник Майкрософт для Markdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference
+)
+
+[Статья об Markdown в википедии](https://ru.wikipedia.org/wiki/Markdown)
+
+[Интересная ссылка](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
