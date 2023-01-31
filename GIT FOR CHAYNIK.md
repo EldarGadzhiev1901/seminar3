@@ -31,3 +31,6 @@
 
 [Интересная ссылка](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+
+# 4 Основные команды Git второго семинара
+
