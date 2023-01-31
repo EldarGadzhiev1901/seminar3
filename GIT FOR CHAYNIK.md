@@ -36,3 +36,5 @@
 
 
 **git branch branch_name** - создать новую ветку с именем
+
+**git branch -d branchname** - удалить ветку с именем 
