@@ -37,6 +37,6 @@
 
 **git branch branch_name** - создать новую ветку с именем
 
-**git branch -d branchname** - удалить ветку с именем 1231
+**git branch -d branchname** - удалить ветку с именем 
 
-**git commit -am "message"** - добавить файл и создать коммит
+**git log --graph** - вывод на экран истрии всех коммитов с их хэш кодами в виде древа
